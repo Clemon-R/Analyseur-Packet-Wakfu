@@ -1,0 +1,2 @@
+bNv(1) = La partie decryptage
+Bg(1) = la partie len/ID

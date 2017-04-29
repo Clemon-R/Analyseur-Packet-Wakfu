@@ -1,0 +1,9 @@
+c:\users\raphael\documents\visual studio 2015\Projects\Analyser Packet Wakfu\Analyser Packet Wakfu\bin\Debug\Analyser Packet Wakfu.exe.config
+c:\users\raphael\documents\visual studio 2015\Projects\Analyser Packet Wakfu\Analyser Packet Wakfu\bin\Debug\Analyser Packet Wakfu.exe
+c:\users\raphael\documents\visual studio 2015\Projects\Analyser Packet Wakfu\Analyser Packet Wakfu\bin\Debug\Analyser Packet Wakfu.pdb
+c:\users\raphael\documents\visual studio 2015\Projects\Analyser Packet Wakfu\Analyser Packet Wakfu\obj\Debug\Analyser Packet Wakfu.csprojResolveAssemblyReference.cache
+c:\users\raphael\documents\visual studio 2015\Projects\Analyser Packet Wakfu\Analyser Packet Wakfu\obj\Debug\Analyser_Packet_Wakfu.main.resources
+c:\users\raphael\documents\visual studio 2015\Projects\Analyser Packet Wakfu\Analyser Packet Wakfu\obj\Debug\Analyser_Packet_Wakfu.Properties.Resources.resources
+c:\users\raphael\documents\visual studio 2015\Projects\Analyser Packet Wakfu\Analyser Packet Wakfu\obj\Debug\Analyser Packet Wakfu.csproj.GenerateResource.Cache
+c:\users\raphael\documents\visual studio 2015\Projects\Analyser Packet Wakfu\Analyser Packet Wakfu\obj\Debug\Analyser Packet Wakfu.exe
+c:\users\raphael\documents\visual studio 2015\Projects\Analyser Packet Wakfu\Analyser Packet Wakfu\obj\Debug\Analyser Packet Wakfu.pdb
